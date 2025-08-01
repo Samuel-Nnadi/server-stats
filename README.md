@@ -24,6 +24,10 @@
    ```bash
    chmod +x server-stats.sh
    ```
+3. Run the script:
+   ```bash
+   ./server-stats.sh
+   ```
 
 ## Example Output
 ```
@@ -50,6 +54,9 @@ Logged-in Users:
 Failed Login Attempts (last 10):
   ...
 ===========================================
-Script completed successfully.
+        Script completed successfully.
 ===========================================
 ```
+
+## Roadmap
+For future plans and features, visit the project roadmap: [server-stats Roadmap](https://roadmap.sh/projects/server-stats)
